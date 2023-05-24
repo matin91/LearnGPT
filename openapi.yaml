@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: LearnGPT Plugin
+  description: A plugin that allows the user to personalized AI Tutor.
+  version: 'v1'
+servers:
+  - url: PLUGIN_HOSTNAME
